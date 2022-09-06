@@ -11,16 +11,16 @@
 - Tiny PNG - Image compressor 🔗 [Site](https://tinypng.com/)
 
 ## Semantic Tags for keep in mind
-- **&lt;header&gt;**
-- **&lt;main&gt;**
-- **&lt;footer&gt;**
-- **&lt;nav&gt;**
-- **&lt;article&gt;**
-- **&lt;section&gt;**
-- **&lt;aside&gt;**
-- **&lt;details&gt;**
-- **&lt;summary&gt;**
-- **&lt;figure&gt;**
-- **&lt;time&gt;**
-- **&lt;abbr&gt;**
-- **&lt;address&gt;**
+- 🔗 [**&lt;header&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
+- 🔗 [**&lt;main&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
+- 🔗 [**&lt;footer&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
+- 🔗 [**&lt;nav&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+- 🔗 [**&lt;article&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
+- 🔗 [**&lt;section&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
+- 🔗 [**&lt;aside&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside)
+- 🔗 [**&lt;details&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- 🔗 [**&lt;summary&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
+- 🔗 [**&lt;figure&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+- 🔗 [**&lt;time&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)
+- 🔗 [**&lt;abbr&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
+- 🔗 [**&lt;address&gt;**](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address)

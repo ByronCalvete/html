@@ -9,3 +9,18 @@
 - Gratisography 🔗 [Site](https://gratisography.com/)
 - Pixabay 🔗 [Site](https://pixabay.com/)
 - Tiny PNG - Image compressor 🔗 [Site](https://tinypng.com/)
+
+## Semantic Tags for keep in mind
+- **&lt;header&gt;**
+- **&lt;main&gt;**
+- **&lt;footer&gt;**
+- **&lt;nav&gt;**
+- **&lt;article&gt;**
+- **&lt;section&gt;**
+- **&lt;aside&gt;**
+- **&lt;details&gt;**
+- **&lt;summary&gt;**
+- **&lt;figure&gt;**
+- **&lt;time&gt;**
+- **&lt;abbr&gt;**
+- **&lt;address&gt;**

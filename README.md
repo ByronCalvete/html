@@ -1,15 +1,15 @@
 # HTML Guide
 
 ## Index
-- 01_Lesson &rarr; My first web page
-- 02_lesson &rarr; Text Basics
-- 03_Lesson &rarr; List Types
-- 04_Lesson &rarr; Add links
-- 05_Lesson &rarr; Add images
-- 06_Lesson &rarr; Semantic tags
-- 07_Lesson &rarr; Tables
-- 08_Lesson &rarr; Forms & Inputs
-- Project
+- [01_Lesson](01_Lesson) &rarr; My first web page
+- [02_lesson](02_Lesson) &rarr; Text Basics
+- [03_Lesson](03_Lesson) &rarr; List Types
+- [04_Lesson](04_Lesson) &rarr; Add links
+- [05_Lesson](05_Lesson) &rarr; Add images
+- [06_Lesson](06_Lesson) &rarr; Semantic tags
+- [07_Lesson](07_Lesson) &rarr; Tables
+- [08_Lesson](08_Lesson) &rarr; Forms & Inputs
+- [Project](Projects)
 
 ### W3C Markup Validation Service 🔗 [Tool](https://validator.w3.org/)
 

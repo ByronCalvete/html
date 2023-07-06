@@ -5,5 +5,6 @@
 - [02_Lesson](02_Lesson) &rarr; Head element
 - [03_Lesson](03_Lesson) &rarr; Text basics
 - [04_Lesson](04_Lesson) &rarr; List types
+- [05_Lesson](05_Lesson) &rarr; Add links
 
 ### W3C Markup Validator Service [🔗](https://validator.w3.org/)

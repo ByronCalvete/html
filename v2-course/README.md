@@ -8,5 +8,6 @@
 - [05_Lesson](05_Lesson) &rarr; Add links
 - [06_Lesson](06_Lesson) &rarr; Add images
 - [07_Lesson](07_Lesson) &rarr; Semantic tags
+- [08_Lesson](08_Lesson) &rarr; Create tables
 
 ### W3C Markup Validator Service [🔗](https://validator.w3.org/)

@@ -9,5 +9,6 @@
 - [06_Lesson](06_Lesson) &rarr; Add images
 - [07_Lesson](07_Lesson) &rarr; Semantic tags
 - [08_Lesson](08_Lesson) &rarr; Create tables
+- [09_Lesson](09_Lesson) &rarr; Forms & Inputs
 
 ### W3C Markup Validator Service [🔗](https://validator.w3.org/)

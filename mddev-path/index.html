@@ -22,12 +22,17 @@
   <body>
     <header>
       <h1>Rocky's Portfolio 🐶</h1>
+
+      <iframe style="width: 100%; aspect-ratio: 16/9;" width="560" height="315" src="https://www.youtube.com/embed/IY4x85zqoJM?si=GN-PANaX2wrv4Kmy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
       <nav>
         <a href="#experience">Experience</a>
         <a href="#projects">Projects</a> <!-- Internal links -->
         <a href="https://bcalvete.xyz" target="_blank" rel="noreferer">My best friend's website</a>
       </nav>
     </header>
+
+    <video loop muted src="./images/rocky-video.mp4" width="300"></video> <!-- To keep in mind. I have <audio> tag, too -->
 
     <main>
         <p>Good boy! With 5 years of experience <strong>shedding hair</strong> all over the house and a magister in sleep.</p>
@@ -86,7 +91,88 @@
             <small>Materials: the ball, my dog collar, my bottle of water and bags for my poop</small>
           </footer>
         </article>
+        <article>
+          <header>
+            <h4>Another photo of me</h4>
+            <img style="width:100%; aspect-ratio:173/299;" loading="lazy" src="./images/rocky.png" alt="Photo of Rocky">
+          </header>
+          <p>This is another photo of me and I'm crazy!</p>
+          <footer>
+            <small>The street's crazy!</small>
+          </footer>
+        </article>
       </section>
+
+      <section>
+        <h2>FAQs</h2>
+
+        <details>
+          <summary>What is your favorite place to visit?</summary>
+          <p>It's undoubtedly the beach</p>
+        </details>
+
+        <details>
+          <summary>Why do you have two beds?</summary>
+          <p>Becuase, I love it sleep!</p>
+        </details>
+      </section>
+
+      <section>
+        <h2>Contact me</h2>
+
+        <form method="post" action="/">
+          <fieldset>
+            <legend>Personal Info</legend>
+            <div>
+              <label>Name:
+                <input type="text" name="name" placeholder="Your name" required>
+              </label>
+            </div>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="email@email.com" required>
+          </fieldset>
+
+          <fieldset>
+            <legend>Aditional info</legend>
+            <div>
+              <label>Phone:
+                <input type="tel" name="phone" placeholder="555 666 777" required>
+              </label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Other</legend>
+
+            <div>
+              <label for="why">¿Why do you want to contact with me?</label>
+              <select name="why" id="why">
+                <option value="1">Biting other dogs</option>
+                <option value="2">Walking with me</option>
+                <option value="3">Play catch! 🎾</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="terms">I'm a dog and accept the terms of the Rocky Portfolio</label>
+              <input type="checkbox" name="terms" id="terms" required>
+            </div>
+
+            <div>
+              <datalist id="languages">
+                <option value="Ball">Ball</option>
+                <option value="Bottle">Bottle</option>
+                <option value="Trash">Trash</option>
+                <option value="Frisbee">Frisbee</option>
+              </datalist>
+              <label>¿Which toy we will pay it?</label>
+              <input list="languages" name="languages">
+            </div>
+          </fieldset>
+          <button>Send</button>
+        </form>
+      </section>
+
     </main>
 
     <footer>

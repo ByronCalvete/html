@@ -32,7 +32,25 @@
       </nav>
     </header>
 
-    <video loop muted src="./images/rocky-video.mp4" width="300"></video> <!-- To keep in mind. I have <audio> tag, too -->
+    <dialog id="dialog">
+      <h1>Rocky "El loco"</h1>
+      <p>Again, I'm Rocky</p>
+      <button id="hide">Close modal</button>
+    </dialog>
+
+    <button id="show">About me</button>
+
+    <script>
+      window.show.addEventListener('click', () => {
+        window.dialog.showModal()
+      })
+
+      window.hide.addEventListener('click', () => {
+        window.dialog.close()
+      })
+    </script>
+
+    <video loop muted src="./images/rocky-video.mp4" width="500"></video> <!-- To keep in mind. I have <audio> tag, too -->
 
     <main>
         <p>Good boy! With 5 years of experience <strong>shedding hair</strong> all over the house and a magister in sleep.</p>
